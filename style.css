@@ -1,0 +1,21 @@
+
+.heading{
+  font-size: 23px;
+  width: 100%; 
+}
+.spl_info{
+ font-size: 17px;
+ color: red;
+}
+.footer{
+position:fixed;
+bottom: 0;
+width: 100%; 
+line-height: 3;
+background-color: blueviolet;
+text-align: center;
+}
+canvas{
+border: 5px solid orange;
+border-radius: 15px;
+}
